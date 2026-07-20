@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kevin 👋</h1>
+<h1 align="center">Hi, I'm Kevin.</h1>
 
 <p align="center">
 Robotics Engineering Student @ Ho Chi Minh University of Technology (VNUHCM-HCMUT)
@@ -8,35 +8,35 @@ Interested in AI, Autonomous Systems and Mathematical Foundations
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🤖 Robotics Engineering Student @ HCMUT
-- 📚 Currently studying **MIT 6.042J Mathematics for Computer Science**
-- 🧠 Interested in **Artificial Intelligence**, **Autonomous Systems**, and **Mathematics**
-- 🔬 Looking for research opportunities in Robotics & AI
-- 📷 I also document my engineering journey through photography and short-form videos.
+- Robotics Engineering Student @ HCMUT
+- Currently studying **MIT 6.042J Mathematics for Computer Science**
+- Interested in **Artificial Intelligence**, **Autonomous Systems**, and **Mathematics**
+- Looking for research opportunities in Robotics & AI
+- I also document my engineering journey through photography and short-form videos.
 
 ---
 
 ## 📖 Currently Learning
 
-- MIT 6.042J Mathematics for Computer Science
-- Reinforcement Learning
+- MIT 6.042J Mathematics for Computer Science + Mathematical Thinking
 - Robotics
 - Artificial Intelligence
-- Mathematical Thinking
+- Python, C++
+- Chinese
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-- 🧠 **Reward Engineering for Reinforcement Learning-based Autonomous Maze Navigation**
-- 👴 **AI-based Elderly Fall Detection System**
-- ⚙️ **Engineering OS** *(currently building...)*
+- **Reward Engineering for Reinforcement Learning-based Autonomous Maze Navigation**
+- **AI-based Elderly Fall Detection System** (Intel AI Training 2025)
+- **Engineering OS** *(currently building...)*
 
 ---
 
-## 🛠 Technologies & Interests
+## Technologies & Interests
 
 ![Python](https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=for-the-badge&logo=cplusplus)
@@ -58,7 +58,7 @@ Interested in AI, Autonomous Systems and Mathematical Foundations
 
 ---
 
-## 📈 GitHub Streak
+## GitHub Streak
 
 <p align="center">
 
@@ -68,7 +68,7 @@ Interested in AI, Autonomous Systems and Mathematical Foundations
 
 ---
 
-## 🌱 My Goal
+## My Goal
 
 I want to become an engineer who solves challenging real-world problems through mathematics, algorithms, and engineering.
 
@@ -76,10 +76,10 @@ Rather than chasing technologies, I'm building a strong foundation that will sup
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me:
 
 GitHub → **github.com/kevinph4n**
 
-TikTok → **@kevinph4n**
+TikTok → **@kevinph4n** (500+ followers so far <3)
 
 LinkedIn → **linkedin.com/in/kevinph4n**
