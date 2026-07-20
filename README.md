@@ -14,7 +14,7 @@ Interested in AI, Autonomous Systems and Mathematical Foundations
 - Currently studying **MIT 6.042J Mathematics for Computer Science**
 - Interested in **Artificial Intelligence**, **Autonomous Systems**, and **Mathematics**
 - Looking for research opportunities in Robotics & AI
-- I also document my engineering journey through photography and short-form videos.
+- I also document my engineering journey through photography and short-form videos. (tiktok @kevinph4n)
 
 ---
 
@@ -46,27 +46,6 @@ Interested in AI, Autonomous Systems and Mathematical Foundations
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kevinph4n&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinph4n&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=kevinph4n&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
 
 ## My Goal
 
