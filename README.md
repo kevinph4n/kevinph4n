@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kevin.</h1>
+<h1 align="center">Hi, I'm Hong Phuc Phan (or Kevin).</h1>
 
 <p align="center">
 Robotics Engineering Student @ Ho Chi Minh University of Technology (VNUHCM-HCMUT)
