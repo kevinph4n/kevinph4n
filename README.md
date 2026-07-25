@@ -31,7 +31,7 @@ Interested in AI, Autonomous Systems and Mathematical Foundations
 ## Featured Projects
 
 - **Reward Engineering for Reinforcement Learning-based Autonomous Maze Navigation** (Jul 2026 - CSE SummerSchool 2026 Robotics Hackathon)
-- **AI-based Elderly Fall Detection System** (Aug 2025 - Intel AI Training)
+- **AI-based Elderly Fall Detection Computer Vision System** (Aug 2025 - Intel AI Training)
 - **Engineering OS** (Continuous updates)
 
 ---
