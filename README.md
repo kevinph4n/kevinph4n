@@ -1,10 +1,15 @@
 # Hi, I'm Kevin
 
-I'm a **Mathematics & Computer Science student @ VNUHCM - University of Science (HCMUS)**.
+[![Mathematics & Computer Science](https://img.shields.io/badge/Mathematics%20%26%20Computer%20Science-Student-blue)](https://www.hcmus.edu.vn/)
+[![Python](https://img.shields.io/badge/Python-Learning-yellow?logo=python)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-Learning-blue?logo=cplusplus)](https://isocpp.org/)
+[![Undergraduate](https://img.shields.io/badge/Undergraduate-Student-green)](https://www.hcmus.edu.vn/)
 
-I'm interested in **Artificial Intelligence, Algorithms, Intelligent Systems, and the mathematical foundations behind computing**. I enjoy understanding things from first principles and applying mathematics, code, and engineering to solve real-world problems.
+I'm a **Mathematics & Computer Science student @ VNUHCM - University of Science (HCMUS)**
 
-I'm currently building my foundations through self-study, engineering projects, hackathons, and research opportunities.
+I'm interested in **Artificial Intelligence, Algorithms, Intelligent Systems, and the mathematical foundations behind computing**. I enjoy understanding things from first principles and applying mathematics, code, and engineering to solve real-world problems
+
+I'm currently building my foundations through self-study, engineering projects, hackathons, and research opportunities
 
 ---
 
@@ -24,19 +29,22 @@ I'm currently building my foundations through self-study, engineering projects, 
 ## Featured Projects
 
 ### Reward Engineering for Reinforcement Learning-based Autonomous Maze Navigation
+
 **CSE SummerSchool 2026 Robotics Hackathon — Jul 2026**
 
-Exploring reward engineering and reinforcement learning for autonomous navigation in simulated environments.
+Exploring reward engineering and reinforcement learning for autonomous navigation in simulated environments
 
 ### AI-based Elderly Fall Detection Computer Vision System
+
 **Intel AI Training — Aug 2025**
 
-A computer vision project exploring pose estimation for elderly fall detection.
+A computer vision project exploring pose estimation for elderly fall detection
 
 ### Engineering OS
+
 **Continuous development**
 
-A personal knowledge system for documenting what I learn, build, and understand throughout my engineering journey.
+A personal knowledge system for documenting what I learn, build, and understand throughout my engineering journey
 
 ---
 
@@ -63,11 +71,11 @@ A personal knowledge system for documenting what I learn, build, and understand 
 
 ## My Goal
 
-I want to become an engineer who solves challenging real-world problems through **mathematics, algorithms, and engineering**.
+I want to become an engineer who solves challenging real-world problems through **mathematics, algorithms, and engineering**
 
 Rather than chasing technologies, I'm building a strong foundation that allows me to understand problems deeply, learn new tools effectively, and work on increasingly difficult problems.
 
-> Build strong foundations. Understand from first principles. Keep building.
+> Build strong foundations. Understand from first principles. Keep building
 
 ---
 
@@ -75,7 +83,7 @@ Rather than chasing technologies, I'm building a strong foundation that allows m
 
 I also enjoy documenting my learning journey through photography, filmmaking, and short-form videos, where I share experiences from studying, building projects, and everyday life.
 
-I believe documenting the journey is part of the journey itself.
+I believe documenting the journey is part of the journey itself
 
 ---
 
