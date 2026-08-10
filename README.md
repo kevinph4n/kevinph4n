@@ -1,61 +1,85 @@
-<h1 align="center">Hi, I'm Hong Phuc Phan (or Kevin)</h1>
+# Hi, I'm Kevin
 
-<p align="center">
-Robotics Engineering Student @ Ho Chi Minh University of Technology (VNUHCM-HCMUT)
-<br>
-Interested in AI, Autonomous Systems and Mathematical Foundations
-</p>
+I'm a **Mathematics & Computer Science student @ VNUHCM - University of Science (HCMUS)**.
 
----
+I'm interested in **Artificial Intelligence, Algorithms, Intelligent Systems, and the mathematical foundations behind computing**. I enjoy understanding things from first principles and applying mathematics, code, and engineering to solve real-world problems.
 
-## About Me
-
-- Robotics Engineering Student @ HCMUT
-- Currently studying **MIT 6.042J Mathematics for Computer Science**
-- Interested in **Artificial Intelligence**, **Autonomous Systems**, and **Mathematics**
-- Looking for research opportunities in Robotics & AI
-- I also document my engineering journey through photography and short-form videos on **my tiktok account @kevinph4n**
+I'm currently building my foundations through self-study, engineering projects, hackathons, and research opportunities.
 
 ---
 
-## 📖 Currently Learning
+## Currently Learning
 
-- MIT 6.042J Mathematics for Computer Science + Mathematical Thinking
-- Robotics
+- MIT 6.042J Mathematics for Computer Science
+- Mathematical Thinking
+- Python
+- C++
 - Artificial Intelligence
-- Python, C++
+- Algorithms & Data Structures
+- Robotics & Intelligent Systems
 - Chinese
 
 ---
 
 ## Featured Projects
 
-- **Reward Engineering for Reinforcement Learning-based Autonomous Maze Navigation** (Jul 2026 - CSE SummerSchool 2026 Robotics Hackathon)
-- **AI-based Elderly Fall Detection Computer Vision System** (Aug 2025 - Intel AI Training)
-- **Engineering OS** (Continuous updates)
+### Reward Engineering for Reinforcement Learning-based Autonomous Maze Navigation
+**CSE SummerSchool 2026 Robotics Hackathon — Jul 2026**
+
+Exploring reward engineering and reinforcement learning for autonomous navigation in simulated environments.
+
+### AI-based Elderly Fall Detection Computer Vision System
+**Intel AI Training — Aug 2025**
+
+A computer vision project exploring pose estimation for elderly fall detection.
+
+### Engineering OS
+**Continuous development**
+
+A personal knowledge system for documenting what I learn, build, and understand throughout my engineering journey.
 
 ---
 
 ## Technologies & Interests
 
-![Python](https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=for-the-badge&logo=cplusplus)
-![Robotics](https://img.shields.io/badge/Focus-Robotics-orange?style=for-the-badge)
-![Artificial Intelligence](https://img.shields.io/badge/Focus-Artificial%20Intelligence-success?style=for-the-badge)
-![Mathematics](https://img.shields.io/badge/Learning-Mathematics-red?style=for-the-badge)
+**Programming**
+
+`Python` `C++`
+
+**Computer Science**
+
+`Algorithms` `Data Structures` `Artificial Intelligence`  
+`Machine Learning` `Computer Vision`
+
+**Engineering**
+
+`Robotics` `Autonomous Systems`
+
+**Foundations**
+
+`Mathematics` `Discrete Mathematics` `Mathematical Thinking`
 
 ---
-
 
 ## My Goal
 
-I want to become an engineer who solves challenging real-world problems through mathematics, algorithms, and engineering.
+I want to become an engineer who solves challenging real-world problems through **mathematics, algorithms, and engineering**.
 
-Rather than chasing technologies, I'm building a strong foundation that will support lifelong learning in Robotics and Artificial Intelligence.
+Rather than chasing technologies, I'm building a strong foundation that allows me to understand problems deeply, learn new tools effectively, and work on increasingly difficult problems.
+
+> Build strong foundations. Understand from first principles. Keep building.
 
 ---
 
-## Connect with Me:
+## Beyond Engineering
+
+I also enjoy documenting my learning journey through photography, filmmaking, and short-form videos, where I share experiences from studying, building projects, and everyday life.
+
+I believe documenting the journey is part of the journey itself.
+
+---
+
+## Connect With Me
 
 GitHub → **github.com/kevinph4n**
 
