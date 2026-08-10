@@ -73,7 +73,7 @@ A personal knowledge system for documenting what I learn, build, and understand 
 
 I want to become an engineer who solves challenging real-world problems through **mathematics, algorithms, and engineering**
 
-Rather than chasing technologies, I'm building a strong foundation that allows me to understand problems deeply, learn new tools effectively, and work on increasingly difficult problems.
+Rather than chasing technologies, I'm building a strong foundation that allows me to understand problems deeply, learn new tools effectively, and work on increasingly difficult problems
 
 > Build strong foundations. Understand from first principles. Keep building
 
@@ -81,7 +81,7 @@ Rather than chasing technologies, I'm building a strong foundation that allows m
 
 ## Beyond Engineering
 
-I also enjoy documenting my learning journey through photography, filmmaking, and short-form videos, where I share experiences from studying, building projects, and everyday life.
+I also enjoy documenting my learning journey through photography, filmmaking, and short-form videos, where I share experiences from studying, building projects, and everyday life
 
 I believe documenting the journey is part of the journey itself
 
