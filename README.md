@@ -1,4 +1,4 @@
-# Hi, I'm Kevin
+# Hi, I'm Hong Phuc Phan (Kevin)
 
 [![Mathematics & Computer Science](https://img.shields.io/badge/Mathematics%20%26%20Computer%20Science-Student-003B73)](https://www.hcmus.edu.vn/)
 [![Undergraduate](https://img.shields.io/badge/Undergraduate-Student-003B73)](https://www.hcmus.edu.vn/)
