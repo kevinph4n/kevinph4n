@@ -1,9 +1,9 @@
 # Hi, I'm Kevin
 
-[![Mathematics & Computer Science](https://img.shields.io/badge/Mathematics%20%26%20Computer%20Science-Student-blue)](https://www.hcmus.edu.vn/)
-[![Python](https://img.shields.io/badge/Python-Learning-yellow?logo=python)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C%2B%2B-Learning-blue?logo=cplusplus)](https://isocpp.org/)
-[![Undergraduate](https://img.shields.io/badge/Undergraduate-Student-green)](https://www.hcmus.edu.vn/)
+[![Mathematics & Computer Science](https://img.shields.io/badge/Mathematics%20%26%20Computer%20Science-Student-003B73)](https://www.hcmus.edu.vn/)
+[![Python](https://img.shields.io/badge/Python-Learning-6A0DAD?logo=python)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-Learning-38BDF8?logo=cplusplus)](https://isocpp.org/)
+[![Undergraduate](https://img.shields.io/badge/Undergraduate-Student-003B73)](https://www.hcmus.edu.vn/)
 
 I'm a **Mathematics & Computer Science student @ VNUHCM - University of Science (HCMUS)**
 
