@@ -40,7 +40,7 @@ Exploring reward engineering and reinforcement learning for autonomous navigatio
 
 A computer vision project exploring pose estimation for elderly fall detection
 
-### Engineering OS
+### Personal Engineering OS
 
 **Continuous development**
 
