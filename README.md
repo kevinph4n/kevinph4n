@@ -5,11 +5,11 @@
 [![Python](https://img.shields.io/badge/Python-Learning-6A0DAD?logo=python)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-Learning-38BDF8?logo=cplusplus)](https://isocpp.org/)
 
-I'm a **Mathematics & Computer Science student @ VNUHCM - University of Science (HCMUS)**
+**Mathematics & Computer Science student @ VNUHCM - University of Science (HCMUS)**
 
 I'm interested in **Artificial Intelligence, Algorithms, Intelligent Systems, and the mathematical foundations behind computing**. I enjoy understanding things from first principles and applying mathematics, code, and engineering to solve real-world problems
 
-I'm currently building my foundations through self-study, engineering projects, hackathons, and research opportunities
+Currently building my foundations through self-study, engineering projects, hackathons, and research opportunities
 
 ---
 
@@ -73,7 +73,7 @@ A personal knowledge system for documenting what I learn, build, and understand 
 
 ## My Goal
 
-I want to become an engineer who solves challenging real-world problems through **mathematics, algorithms, and engineering**
+To become an engineer who solves challenging real-world problems through **mathematics, algorithms, and engineering**
 
 Rather than chasing technologies, I'm building a strong foundation that allows me to understand problems deeply, learn new tools effectively, and work on increasingly difficult problems
 
