@@ -15,14 +15,10 @@ Currently building my foundations through self-study, engineering projects, hack
 
 ## Currently Learning
 
-- MIT 6.042J Mathematics for Computer Science
-- Mathematical Thinking
-- Python
-- C++
-- Artificial Intelligence
-- Algorithms & Data Structures
-- Robotics & Intelligent Systems
 - Chinese
+- Advanced Mathematics
+- Python & C++
+- Robotics
 
 ---
 
