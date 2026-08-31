@@ -19,6 +19,8 @@ Currently building my foundations through self-study, engineering projects, hack
 - Advanced Mathematics
 - Python & C++
 - Robotics
+- Data Analysis & Visualization
+- DSA for Competitive Programming
 
 ---
 
