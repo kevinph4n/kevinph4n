@@ -27,18 +27,18 @@ Currently building my foundations through self-study, engineering projects, hack
 ### Reward Engineering for Reinforcement Learning-based Autonomous Maze Navigation
 ```
 github.com/kevinph4n/Reward-Engineering-for-Reinforcement-Learning-based-Autonomous-Maze-Navigation
-**CSE SummerSchool 2026 Robotics Hackathon — Jul 2026**
+CSE SummerSchool 2026 Robotics Hackathon — Jul 2026
 Exploring reward engineering and reinforcement learning for autonomous navigation in simulated environments
 ```
 ### AI-based Elderly Fall Detection Computer Vision System
 ```
-**Intel AI Training — Aug 2025**
+Intel AI Training — Aug 2025
 A computer vision project exploring pose estimation for elderly fall detection
 ```
 ### Personal Engineering OS
 ```
 github.com/kevinph4n/Personal-Engineering-OS
-**Continuous development**
+Continuous development
 A personal knowledge system for documenting what I learn, build, and understand throughout my engineering journey
 ```
 ---
