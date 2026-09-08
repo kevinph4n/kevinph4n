@@ -32,10 +32,10 @@ github.com/kevinph4n/Reward-Engineering-for-Reinforcement-Learning-based-Autonom
 CSE SummerSchool 2026 Robotics Hackathon — Jul 2026
 Exploring reward engineering and reinforcement learning for autonomous navigation in simulated environments
 ```
-### AI-based Elderly Fall Detection Computer Vision System
+### Posture-Based Fall Detection System
 ```
-Intel AI Training — Aug 2025
-A computer vision project exploring pose estimation for elderly fall detection
+Intel AI Training 2025's Capstone Project
+Real-time fall detection using MediaPipe pose estimation, OpenCV, and Python by monitoring changes in the body's vertical center.
 ```
 ### Personal Engineering OS
 ```
