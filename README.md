@@ -42,9 +42,6 @@ Sep 2026 - personal, collaborative ML project
 github.com/AramNguyen/Diabetes-Risk-Predictor
 Sep 2026 - personal, collaborative ML project
 ```
-Intel AI Training 2025's Capstone Project
-Real-time fall detection using MediaPipe pose estimation, OpenCV, and Python by monitoring changes in the body's vertical center.
-```
 ### Personal Engineering OS
 ```
 github.com/kevinph4n/Personal-Engineering-OS
