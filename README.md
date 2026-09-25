@@ -35,9 +35,12 @@ Exploring reward engineering and reinforcement learning for autonomous navigatio
 ### End-to-End Burnout Risk Assessment
 ```
 github.com/kevinph4n/End-to-End-Burnout-Risk-Assessment
-Sep 2026 - personal ML project
+Sep 2026 - personal, collaborative ML project
 ```
-### Posture-Based Fall Detection System
+### Diabetes Risk Predictor
+```
+github.com/AramNguyen/Diabetes-Risk-Predictor
+Sep 2026 - personal, collaborative ML project
 ```
 Intel AI Training 2025's Capstone Project
 Real-time fall detection using MediaPipe pose estimation, OpenCV, and Python by monitoring changes in the body's vertical center.
