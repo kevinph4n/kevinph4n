@@ -32,6 +32,11 @@ github.com/kevinph4n/Reward-Engineering-for-Reinforcement-Learning-based-Autonom
 CSE SummerSchool 2026 Robotics Hackathon — Jul 2026
 Exploring reward engineering and reinforcement learning for autonomous navigation in simulated environments
 ```
+### End-to-End Burnout Risk Assessment
+```
+github.com/kevinph4n/End-to-End-Burnout-Risk-Assessment
+Sep 2026 - personal ML project
+```
 ### Posture-Based Fall Detection System
 ```
 Intel AI Training 2025's Capstone Project
