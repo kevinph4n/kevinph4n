@@ -32,12 +32,12 @@ github.com/kevinph4n/Reward-Engineering-for-Reinforcement-Learning-based-Autonom
 CSE SummerSchool 2026 Robotics Hackathon — Jul 2026
 Exploring reward engineering and reinforcement learning for autonomous navigation in simulated environments
 ```
-### End-to-End Burnout Risk Assessment
+### End-to-End Burnout Risk Assessment using Explainable Machine Learning
 ```
 github.com/kevinph4n/End-to-End-Burnout-Risk-Assessment
 Sep 2026 - personal, collaborative ML project
 ```
-### Diabetes Risk Predictor
+### End-to-End Diabetes Risk Predictor
 ```
 github.com/AramNguyen/Diabetes-Risk-Predictor
 Sep 2026 - personal, collaborative ML project
